@@ -7,8 +7,8 @@
     Preconditions:
     Postgresql server is installed, configured and started
     User postgres has access to passed DB
-
-   # mssqlLoginLoop.bat  [server] [user] [password] count]
+    
+    # mssqlLoginLoop.bat  [server] [user] [password] count]
     
     To stress the mssql login use correct password
     
